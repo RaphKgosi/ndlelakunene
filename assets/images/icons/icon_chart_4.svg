@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 117 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-16633.3,-1750.99)">
+        <g id="icon_chart_4.svg" transform="matrix(4.16667,0,0,4.16667,16691.7,1809.32)">
+            <g transform="matrix(1,0,0,1,-14,-14)">
+                <clipPath id="_clip1">
+                    <rect x="0" y="0" width="28" height="28"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <path d="M13.177,27.965L13.177,16.317L5.865,25.357C8.011,26.907 10.528,27.81 13.177,27.965Z" style="fill:rgb(233,79,55);fill-rule:nonzero;"/>
+                    <path d="M14.815,14.82L14.815,27.965C18.22,27.766 21.412,26.331 23.875,23.872C26.338,21.412 27.777,18.224 27.976,14.82L14.815,14.82Z" style="fill:rgb(233,79,55);fill-rule:nonzero;"/>
+                    <rect x="22.184" y="7.818" width="2.048" height="5.362" style="fill:rgb(233,79,55);fill-rule:nonzero;"/>
+                    <path d="M4.12,4.129C1.463,6.785 0,10.29 0,14C0,17.71 1.463,21.216 4.12,23.872C4.275,24.026 4.432,24.176 4.592,24.322L13.175,13.71L13.175,0.035C9.768,0.234 6.58,1.67 4.12,4.129Z" style="fill:rgb(233,79,55);fill-rule:nonzero;"/>
+                    <rect x="14.815" y="6.189" width="2.042" height="6.991" style="fill:rgb(233,79,55);fill-rule:nonzero;"/>
+                    <rect x="18.498" y="2.245" width="2.048" height="10.936" style="fill:rgb(233,79,55);fill-rule:nonzero;"/>
+                    <rect x="25.871" y="10.01" width="2.13" height="3.171" style="fill:rgb(233,79,55);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
