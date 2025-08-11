@@ -4055,7 +4055,7 @@ input[type=search]::-webkit-search-results-decoration {
       justify-content: center;
       transition: var(--bs-transition);
       font-family: 'Font Awesome 5 Pro';
-      background-color: var(--bs-primary); }
+      background-color: #FF6100; }
     .team_block.style_2 .social_icons_block > li {
       opacity: 0;
       visibility: hidden;
